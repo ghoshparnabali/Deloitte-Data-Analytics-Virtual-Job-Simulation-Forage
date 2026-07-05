@@ -26,7 +26,7 @@ Across the dataset, 18 roles were classified as Fair, 12 as Unfair, and 7 as Hig
 ## Repository Structure
 
 ```
-Deloitte-Data-Analytics-Virtual-Job-Simulation-(Forage)/
+Deloitte-Data-Analytics-Virtual-Job-Simulation-Forage/
 ├── Deloitte_Job_Simulation/
 |   ├── task_1/
 │   |   ├── dataset.json
