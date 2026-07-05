@@ -29,7 +29,7 @@ Across the dataset, 18 roles were classified as Fair, 12 as Unfair, and 7 as Hig
 Deloitte-Data-Analytics-Virtual-Job-Simulation-Forage/
 ├── Deloitte_Job_Simulation/
 |   ├── task_1/
-│   |   ├── dataset.json
+│   |   ├── dataset.zip
 │   |   ├── result_dashboard.twbx
 │   |   └── result_image.png
 |   └── task_2/
@@ -44,4 +44,4 @@ Deloitte-Data-Analytics-Virtual-Job-Simulation-Forage/
 | Tool | Purpose |
 |------|---------|
 |Tableau Public | Telemetry data visualisation and dashboard |
-Microsoft Excel | Equality score classification |
+| Microsoft Excel | Equality score classification |
